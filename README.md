@@ -1,6 +1,6 @@
 ## 🌡️ Temperature Converter
 
-**Repo:** [rust-temperature-converter](https://github.com/yourusername/rust-temperature-converter)
+**Repo:** [rust-temperature-converter](https://github.com/megabyte-webdev/rust-temperature-converter)
 
 A simple Rust CLI application that converts temperatures between Celsius, Fahrenheit, and Kelvin.
 
